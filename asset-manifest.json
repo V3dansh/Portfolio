@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/V3dansh/Portfolio/static/css/main.5148cab7.css",
+    "main.js": "/V3dansh/Portfolio/static/js/main.3e0f77b4.js",
+    "static/media/Profile-home.jpg": "/V3dansh/Portfolio/static/media/Profile-home.6abee87f93b4fa94ae0b.jpg",
+    "static/media/project-2.jpg": "/V3dansh/Portfolio/static/media/project-2.0dfdb478a2db20f08cf8.jpg",
+    "static/media/Twitter.Sentiment_analysis.pdf": "/V3dansh/Portfolio/static/media/Twitter.Sentiment_analysis.f1b0e9dfade07d4f9a91.pdf",
+    "static/media/project-5.jpg": "/V3dansh/Portfolio/static/media/project-5.f6885d316197f5d72029.jpg",
+    "static/media/project-6.jpg": "/V3dansh/Portfolio/static/media/project-6.f4df07761e8241c83a94.jpg",
+    "static/media/project-3.jpeg": "/V3dansh/Portfolio/static/media/project-3.5ae83458f56a1d1d3163.jpeg",
+    "static/media/Updated-OverLeaf Srijal Vedansh Resume.pdf": "/V3dansh/Portfolio/static/media/Updated-OverLeaf Srijal Vedansh Resume.e2fd91228862d9ee7930.pdf",
+    "static/media/todo-list.jpg": "/V3dansh/Portfolio/static/media/todo-list.8e56e4d480f711fa67a4.jpg",
+    "static/media/sentimental_analysis.png": "/V3dansh/Portfolio/static/media/sentimental_analysis.14d339bad9167aa8787b.png",
+    "static/media/github.svg": "/V3dansh/Portfolio/static/media/github.b6a94fc1e8df50ac1b1d42461a74495b.svg",
+    "index.html": "/V3dansh/Portfolio/index.html",
+    "static/media/close.svg": "/V3dansh/Portfolio/static/media/close.62d542d8225e9ae56794bdce0b546338.svg",
+    "main.5148cab7.css.map": "/V3dansh/Portfolio/static/css/main.5148cab7.css.map",
+    "main.3e0f77b4.js.map": "/V3dansh/Portfolio/static/js/main.3e0f77b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5148cab7.css",
+    "static/js/main.3e0f77b4.js"
+  ]
+}
