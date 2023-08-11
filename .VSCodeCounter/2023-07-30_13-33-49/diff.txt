@@ -1,0 +1,47 @@
+Date : 2023-07-30 13:33:49
+Directory : c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src
+Total : 13 files,  547 codes, 0 comments, 40 blanks, all 587 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |          6 |        335 |          0 |         10 |        345 |
+| CSS        |          5 |        210 |          0 |         30 |        240 |
+| XML        |          2 |          2 |          0 |          0 |          2 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                               | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                  |         13 |        547 |          0 |         40 |        587 |
+| . (Files)                                                                                                          |          2 |        191 |          0 |          8 |        199 |
+| Assets                                                                                                             |          2 |          2 |          0 |          0 |          2 |
+| Components                                                                                                         |          3 |         51 |          0 |          4 |         55 |
+| Pages                                                                                                              |          6 |        303 |          0 |         28 |        331 |
+| Pages\About                                                                                                        |          1 |          5 |          0 |          0 |          5 |
+| Pages\Contact                                                                                                      |          2 |        182 |          0 |         12 |        194 |
+| Pages\HomeContent                                                                                                  |          1 |          1 |          0 |          0 |          1 |
+| Pages\Portfolio                                                                                                    |          2 |        115 |          0 |         16 |        131 |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                           | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\App.css                       | CSS        |          3 |          0 |          0 |          3 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Assets\close.svg              | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Assets\github.svg             | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Components\Navbar.css         | CSS        |          1 |          0 |          0 |          1 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Components\PortfolioItem.js   | JavaScript |         41 |          0 |          3 |         44 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Components\info.js            | JavaScript |          9 |          0 |          1 |         10 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Pages\About\About.css         | CSS        |          5 |          0 |          0 |          5 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Pages\Contact\Contact.css     | CSS        |         95 |          0 |         14 |        109 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Pages\Contact\Contact.js      | JavaScript |         87 |          0 |         -2 |         85 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Pages\HomeContent\Home.js     | JavaScript |          1 |          0 |          0 |          1 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Pages\Portfolio\Portfolio.css | CSS        |        106 |          0 |         16 |        122 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Pages\Portfolio\Portfolio.js  | JavaScript |          9 |          0 |          0 |          9 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\info.js                       | JavaScript |        188 |          0 |          8 |        196 |
+| Total                                                                                                              |            |        547 |          0 |         40 |        587 |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

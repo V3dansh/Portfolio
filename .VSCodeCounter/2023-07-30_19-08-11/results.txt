@@ -1,0 +1,59 @@
+Date : 2023-07-30 19:08:11
+Directory : c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src
+Total : 25 files,  1930 codes, 11 comments, 220 blanks, all 2161 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         16 |      1,245 |          4 |        115 |      1,364 |
+| CSS        |          7 |        683 |          7 |        105 |        795 |
+| XML        |          2 |          2 |          0 |          0 |          2 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                               | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                  |         25 |      1,930 |         11 |        220 |      2,161 |
+| . (Files)                                                                                                          |          8 |        982 |         11 |        119 |      1,112 |
+| Assets                                                                                                             |          2 |          2 |          0 |          0 |          2 |
+| Components                                                                                                         |          7 |        295 |          0 |         28 |        323 |
+| Pages                                                                                                              |          8 |        651 |          0 |         73 |        724 |
+| Pages\About                                                                                                        |          2 |        252 |          0 |         30 |        282 |
+| Pages\Contact                                                                                                      |          2 |        193 |          0 |         15 |        208 |
+| Pages\HomeContent                                                                                                  |          2 |         80 |          0 |          9 |         89 |
+| Pages\Portfolio                                                                                                    |          2 |        126 |          0 |         19 |        145 |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                           | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\App.css                       | CSS        |        130 |          7 |         25 |        162 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\App.js                        | JavaScript |         22 |          0 |          2 |         24 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Assets\close.svg              | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Assets\github.svg             | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Components\Navbar.css         | CSS        |        121 |          0 |         14 |        135 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Components\Navbar.js          | JavaScript |         36 |          0 |          2 |         38 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Components\PortfolioItem.js   | JavaScript |         41 |          0 |          3 |         44 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Components\ResumeItem.js      | JavaScript |         23 |          0 |          2 |         25 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Components\Stats.js           | JavaScript |         22 |          0 |          2 |         24 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Components\info.js            | JavaScript |         27 |          0 |          3 |         30 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Components\skills.js          | JavaScript |         25 |          0 |          2 |         27 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Pages\About\About.css         | CSS        |        180 |          0 |         27 |        207 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Pages\About\About.js          | JavaScript |         72 |          0 |          3 |         75 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Pages\Contact\Contact.css     | CSS        |         95 |          0 |         15 |        110 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Pages\Contact\Contact.js      | JavaScript |         98 |          0 |          0 |         98 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Pages\HomeContent\Home.css    | CSS        |         43 |          0 |          6 |         49 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Pages\HomeContent\Home.js     | JavaScript |         37 |          0 |          3 |         40 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Pages\Portfolio\Portfolio.css | CSS        |        106 |          0 |         17 |        123 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\Pages\Portfolio\Portfolio.js  | JavaScript |         20 |          0 |          2 |         22 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\data.js                       | JavaScript |        430 |          0 |         51 |        481 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\index.css                     | CSS        |          8 |          0 |          1 |          9 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\index.js                      | JavaScript |         10 |          0 |          3 |         13 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\info.js                       | JavaScript |        369 |          0 |         34 |        403 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\reportWebVitals.js            | JavaScript |         12 |          0 |          2 |         14 |
+| c:\Users\Vedansh\OneDrive\Documents\KIIT Course\Programming\Web_dev\my-portfolio\src\setupTests.js                 | JavaScript |          1 |          4 |          1 |          6 |
+| Total                                                                                                              |            |      1,930 |         11 |        220 |      2,161 |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
